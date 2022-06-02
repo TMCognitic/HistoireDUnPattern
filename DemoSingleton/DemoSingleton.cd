@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="DemoSingleton.Models.Services.FakeService1" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="1" Width="3.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DemoSingleton.Models.Services.FakeService2" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="3.25" Width="3.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DemoSingleton.Models.Services.FakeService3" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="6" Width="3.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DemoSingleton.Models.Repositories.ISimpleRepository&lt;T&gt;">
+    <Position X="2.5" Y="1" Width="2.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

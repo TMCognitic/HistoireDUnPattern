@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="DemoIOC.Tools.Locator.LocatorBase">
+    <Position X="6.75" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locator\LocatorBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DemoIOC.Tools.IOC.SimpleIOC" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="3" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAACAAAAAABAAAAAAAACAAACgA=</HashCode>
+      <FileName>IOC\SimpleIOC.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DemoIOC.Tools.IOC.ISimpleIOC">
+    <Position X="1.5" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAACAAAAAA=</HashCode>
+      <FileName>IOC\ISimpleIOC.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
